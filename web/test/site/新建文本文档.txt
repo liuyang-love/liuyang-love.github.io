@@ -1,0 +1,10 @@
+<!DOCTYPE html>  
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>我的测试页面</title>
+  </head>
+  <body>
+    <img src="" alt="我的测试页面">	src地址属性//alt 属性的关键字即“描述文本”
+  </body>
+</html> 
